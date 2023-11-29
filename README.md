@@ -1,2 +1,2 @@
 # mytelegramBot
-This repository for telegram bot methods
+'This repository for telegram bot methods'
